@@ -1,0 +1,57 @@
+trim_roll = 0
+set baro_tab_size = 21
+set baro_noise_lpf =  0.600
+set baro_cf_vel =  0.985
+set baro_cf_alt =  0.965
+set mag_declination = 0
+set pid_controller = MWREWRITE
+set p_pitch = 40
+set i_pitch = 30
+set d_pitch = 23
+set p_roll = 40
+set i_roll = 30
+set d_roll = 23
+set p_yaw = 85
+set i_yaw = 45
+set d_yaw = 0
+set p_pitchf =  1.400
+set i_pitchf =  0.400
+set d_pitchf =  0.030
+set p_rollf =  1.400
+set i_rollf =  0.400
+set d_rollf =  0.030
+set p_yawf =  3.500
+set i_yawf =  0.400
+set d_yawf =  0.010
+set yaw_p_limit = 500
+set level_horizon =  3.000
+set level_angle =  5.000
+set sensitivity_horizon = 75
+set p_alt = 50
+set i_alt = 0
+set d_alt = 0
+set p_level = 90
+set i_level = 10
+set d_level = 100
+set p_vel = 120
+set i_vel = 45
+set d_vel = 1
+set dterm_cut_hz = 0
+set pterm_cut_hz = 0
+set gyro_cut_hz = 0
+
+# dump rates
+
+# rateprofile
+rateprofile 0
+
+set rc_rate = 90
+set rc_expo = 65
+set rc_yaw_expo = 0
+set thr_mid = 50
+set thr_expo = 0
+set roll_rate = 0
+set pitch_rate = 0
+set yaw_rate = 0
+set tpa_rate = 0
+set tpa_breakpoint = 1500
