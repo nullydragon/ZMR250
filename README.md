@@ -1,5 +1,5 @@
 # QAV250  
-![Image of Yaktocat](https://github.com/nullydragon/ZMR250/blob/master/Titan/Images/20151228_0787.png)
+![Image of Completed ZMR250](https://github.com/nullydragon/ZMR250/blob/master/Titan/Images/20151228_0787.png)
 
 ## Parts  
 
