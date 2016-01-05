@@ -20,17 +20,17 @@
 To get frsky telemetry working with cleanflight 1.1.0 we need to use the cli and enter the following command  
     **set telemetry_inversion = ON**  
       
-    Serial Port 1 doesnt line up with the pdb, you will need to manually connect it using a jumper, this is a good thing as we can disconnect the OSD to connect to the naze32 via USB    
+Serial Port 1 doesnt line up with the pdb, you will need to manually connect it using a jumper, this is a good thing as we can disconnect the OSD to connect to the naze32 via USB    
       
-    I would suggest getting different ESC's as the MultiStar ones are not true BLHeli, you cannot flash them, and they twitch when using oneshot.  
+I would suggest getting different ESC's as the MultiStar ones are not true BLHeli, you cannot flash them, and they twitch when using oneshot.  
       
-    An alternative to the DYS BE1806's is the [RCX 1804 2400KV](http://www.ebay.com.au/itm/RCX-1804-2400KV-Brushless-Motor-Plus-Thread-for-DJI-F330-ZMR250-H250-Multicopter-/381138996104?hash=item58bda78b88:g:LbEAAOSwkNZUnQL0)  
+An alternative to the DYS BE1806's is the [RCX 1804 2400KV](http://www.ebay.com.au/itm/RCX-1804-2400KV-Brushless-Motor-Plus-Thread-for-DJI-F330-ZMR250-H250-Multicopter-/381138996104?hash=item58bda78b88:g:LbEAAOSwkNZUnQL0)  
       
-    Make sure to get lock nuts for your props, early flights without resulted in crashes where props came off. (Most likely my fault but a few dollars and you can make sure this doesnt happen to you)  
+Make sure to get lock nuts for your props, early flights without resulted in crashes where props came off. (Most likely my fault but a few dollars and you can make sure this doesnt happen to you)  
       
-    The props from surveilzone are great, [5030's](http://www.surveilzone.com/High-Quality-Customized-5040-Multirotor-Propellers-Two-Pair-CW-CCW-g-1352) that have taken a beating and still not broken on me  
+The props from surveilzone are great, [5030's](http://www.surveilzone.com/High-Quality-Customized-5040-Multirotor-Propellers-Two-Pair-CW-CCW-g-1352) that have taken a beating and still not broken on me  
       
-    You can feel free to upgrade the frame to carbon fiber to shave some grams off of the weight, but this is a starter quad for me so the price to replace the frame needed to be as low as possible  
+You can feel free to upgrade the frame to carbon fiber to shave some grams off of the weight, but this is a starter quad for me so the price to replace the frame needed to be as low as possible  
       
   
 ## Schematic  
