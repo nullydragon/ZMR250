@@ -34,7 +34,7 @@ You can feel free to upgrade the frame to carbon fiber to shave some grams off o
       
   
 ## Schematic  
-  *TODO*
+  ![Image of Schematic Work In Progress](https://raw.githubusercontent.com/nullydragon/ZMR250/master/Titan/Images/Titan%20Layout%20WIP.png)
   
 ## Explanations  
 ### Connections to Naze32  
