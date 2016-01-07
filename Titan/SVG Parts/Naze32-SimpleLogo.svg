@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3398"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="27mm"
+   height="27mm"
+   viewBox="0 0 95.669291 95.669289"
+   sodipodi:docname="Naze32-SimpleLogo.svg">
+  <metadata
+     id="metadata3404">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3402" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="827"
+     inkscape:window-height="403"
+     id="namedview3400"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="49.316942"
+     inkscape:cy="25.312736"
+     inkscape:window-x="930"
+     inkscape:window-y="605"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3398" />
+  <rect
+     style="fill:#800080"
+     id="rect3410"
+     width="95.669289"
+     height="95.669289"
+     x="0"
+     y="-4.5055481e-007"
+     ry="17.937992" />
+  <ellipse
+     style="fill:#ffffff"
+     id="path3412"
+     cx="22.429642"
+     cy="61.633102"
+     rx="12.35919"
+     ry="8.2790737" />
+  <ellipse
+     style="fill:#ffffff"
+     id="path3416"
+     cx="70.035408"
+     cy="54.503899"
+     rx="13.732434"
+     ry="7.5891504" />
+  <ellipse
+     style="fill:#ffffff"
+     id="path3418"
+     cx="65.91568"
+     cy="35.416035"
+     rx="9.1549559"
+     ry="4.5994849" />
+  <ellipse
+     style="fill:#ffffff"
+     id="path3420"
+     cx="27.922613"
+     cy="41.395367"
+     rx="9.6127033"
+     ry="5.0594335" />
+  <ellipse
+     style="fill:#ffffff"
+     id="path3422"
+     cx="47.605766"
+     cy="47.834648"
+     rx="6.8662171"
+     ry="4.1395369" />
+  <rect
+     style="fill:#ffffff"
+     id="rect3424"
+     width="13.35404"
+     height="2.8542335"
+     x="41.681274"
+     y="37.105434"
+     ry="1.4271168"
+     transform="matrix(0.98740601,0.15820671,-0.21904009,0.97571586,0,0)"
+     inkscape:transform-center-x="-1.6776159"
+     inkscape:transform-center-y="-0.94485376" />
+  <rect
+     style="fill:#ffffff"
+     id="rect3424-4"
+     width="10.987785"
+     height="2.7592337"
+     x="58.878815"
+     y="37.844845"
+     ry="1.3796169"
+     transform="matrix(0.98232217,0.18719817,-0.18547284,0.98264939,0,0)"
+     inkscape:transform-center-x="-1.3732413"
+     inkscape:transform-center-y="-0.91989083" />
+  <rect
+     style="fill:#ffffff"
+     id="rect3441"
+     width="14.24424"
+     height="3.4537179"
+     x="-2.483103"
+     y="62.913509"
+     ry="1.4801699"
+     transform="matrix(0.882474,-0.47036119,0.51469164,0.85737536,0,0)" />
+  <rect
+     style="fill:#ffffff"
+     id="rect3441-1"
+     width="14.466795"
+     height="3.563308"
+     x="19.947325"
+     y="61.865593"
+     ry="1.5271372"
+     transform="matrix(0.87637958,-0.48162105,0.50315762,0.86419466,0,0)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:3.6390779px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="28.415022"
+     y="101.43156"
+     id="text3458"
+     sodipodi:linespacing="125%"
+     transform="scale(1.1196671,0.8931226)"><tspan
+       sodipodi:role="line"
+       id="tspan3460"
+       x="28.415022"
+       y="101.43156"
+       style="font-size:38.8168335px;fill:#ffffff">N</tspan></text>
+</svg>
